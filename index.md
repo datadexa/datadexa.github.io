@@ -8,7 +8,7 @@ subtitle: Starter pack
 Click [**Use this template**](https://github.com/dieghernan/chulapa-101/generate) button above for cloning this repo and get started with [Chulapa Jekyll theme](https://github.com/dieghernan/chulapa).
 
 Contains basic configuration to get you a site with:
-
+- I've made a branch, but how to merge it with only blog fork and not the main one?
 - Sample posts and [paginated blog index](./blog/).
 - Sample collection with Markdown and kramdown cheatsheets and [collection index](./cheatsheets).
 - Archive pages for posts grouped by year, category, and tag.
